@@ -1,0 +1,8 @@
+datapath.v
+ALU.v
+regfile.v
+flops.v
+decode.v
+mux.v
+multi_control.v
+datapath_tb.v
